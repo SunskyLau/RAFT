@@ -1,5 +1,6 @@
 # Custom
 data/
+datasets/
 checkpoints/
 results/
 test_results/
